@@ -1,19 +1,19 @@
 {
-  "name": "n8n-nodes-starter",
+  "name": "n8n-nodes-",
   "version": "0.1.0",
   "description": "Example starter module for custom n8n nodes.",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
-  "homepage": "https://n8n.io",
+  "homepage": "https://joffcom.net",
   "author": {
-    "name": "Jan Oberhauser",
-    "email": "jan@n8n.io"
+    "name": "Jon Bennetts",
+    "email": "jonathan@joffcom.net"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/n8n-io/n8n-nodes-starter.git"
+    "url": "git+https://github.com/joffcom/n8n-nodes-starter.git"
   },
   "main": "index.js",
   "scripts": {
