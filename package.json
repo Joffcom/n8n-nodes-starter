@@ -8,7 +8,7 @@
   "license": "MIT",
   "homepage": "https://joffcom.net",
   "author": {
-    "name": "Jon Bennetts",
+    "name": "Jonathan",
     "email": "jonathan@joffcom.net"
   },
   "repository": {
@@ -30,10 +30,10 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
-      "dist/credentials/ExampleCredentialsApi.credentials.js"
+      "dist/credentials/nodeName.credentials.js"
     ],
     "nodes": [
-      "dist/nodes/ExampleNode/ExampleNode.node.js"
+      "dist/nodes/NodeName/NodeName.node.js"
     ]
   },
   "devDependencies": {
